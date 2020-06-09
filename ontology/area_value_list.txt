@@ -1,0 +1,8 @@
+none
+dont care
+centre
+north
+west
+south
+east
+cambridge

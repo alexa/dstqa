@@ -1,0 +1,6 @@
+none
+dont care
+cheap
+moderate
+expensive
+

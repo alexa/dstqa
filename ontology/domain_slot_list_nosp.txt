@@ -1,0 +1,31 @@
+# domain_name, slot_name, ans_type, ignored, value_file_path (none and dont care must be the first and second elements), use_value_list, masked
+restaurant	area	classification	n	area_value_list.txt	y	n
+restaurant	price range	classification	n	price_range_value_list.txt	y	n
+restaurant	food	classification	n	food_value_list.txt	y	n
+restaurant	name	classification	n	restaurant_name_value_list.txt	y	n
+restaurant	book people	classification	n	people_value_list.txt	y	n
+restaurant	book time	classification	n	time_value_list.txt	y	n
+restaurant	book day	classification	n	day_value_list.txt	y	n
+hotel	price range	classification	n	price_range_value_list.txt	y	n
+hotel	type	classification	n	hotel_type_value_list.txt	y	n
+hotel	parking	classification	n	yes_no_value_list.txt	y	n
+hotel	book stay	classification	n	hotel_stay_value_list.txt	y	n
+hotel	book day	classification	n	day_value_list.txt	y	n
+hotel	book people	classification	n	people_value_list.txt	y	n
+hotel	area	classification	n	area_value_list.txt	y	n
+hotel	stars	classification	n	hotel_stars_value_list.txt	y	n
+hotel	internet	classification	n	yes_no_value_list.txt	y	n
+hotel	name	classification	n	hotel_name_value_list.txt	y	n
+train	destination	classification	n	train_station_value_list.txt	y	n
+train	departure	classification	n	train_station_value_list.txt	y	n
+train	day	classification	n	day_value_list.txt	y	n
+train	arriveby	classification	n	time_value_list.txt	y	n
+train	leaveat	classification	n	time_value_list.txt	y	n
+train	book people	classification	n	people_value_list.txt	y	n
+attraction	area	classification	n	area_value_list.txt	y	n
+attraction	name	classification	n	attraction_name_value_list.txt	y	n
+attraction	type	classification	n	attraction_type_value_list.txt	y	n
+taxi	destination	classification	n	taxi_from_to_value_list.txt	y	n
+taxi	departure	classification	n	taxi_from_to_value_list.txt	y	n
+taxi	arriveby	classification	n	time_value_list.txt	y	n
+taxi	leaveat	classification	n	time_value_list.txt	y	n

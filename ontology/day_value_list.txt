@@ -1,0 +1,9 @@
+none
+dont care
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday

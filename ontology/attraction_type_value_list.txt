@@ -1,0 +1,14 @@
+none
+dont care
+architecture
+boat
+cinema
+college
+concert hall
+entertainment
+museum
+multiple sports
+nightclub
+park
+swimming pool
+theatre
