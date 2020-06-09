@@ -33,7 +33,7 @@ Step 5 - Train
 bash train_nosp.sh
 ```
 
-Step 6 - Evaluation
+Step 6 - Evaluate
 ```
 bash predict.sh ./data/prediction.json
 ```
