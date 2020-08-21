@@ -25,7 +25,7 @@ python multiwoz_format.py all ./data ./data
 Step 4 - Pre-calculate ELMO Embeddings
 ```
 mkdir ./data/elmo_embeddings
-bash calc_elmo.sh ./data ./data/elms_embeddings
+bash calc_elmo.sh ./data ./data/elmo_embeddings
 ```
 
 Step 5 - Train
